@@ -18,27 +18,20 @@ Cost control contributes to the success of a software project in the following w
 
 Strategies to Prevent Budget Overruns:
 - **Detailed Budget Planning**: 
-  - Accurate cost estimation for all components.
-  - Contingency funds for unforeseen expenses.
+  Accurate cost estimation for all components.
 - **Regular Monitoring and Reporting**:
-  - Track actual spending vs. budget.
-  - Review financial reports to detect and address variances.
+  Track actual spending vs. budget.
 - **Scope Management**:
-  - Control scope creep with a formal change process.
-  - Assess financial impact of change requests.
+  Control scope creep with a formal change process.
 - **Efficient Resource Management**:
-  - Allocate resources based on skills and availability.
-  - Optimize resource utilization.
+  Allocate resources based on skills and availability.
 - **Vendor and Contract Management**:
-  - Negotiate clear and detailed contracts.
-  - Manage contracts to prevent unexpected costs.
+  Negotiate clear and detailed contracts.
 - **Risk Management**:
-  - Conduct regular risk assessments.
-  - Develop and implement mitigation plans.
+  Conduct regular risk assessments.
 - **Effective Communication**:
-  - Keep stakeholders informed about budget status.
-  - Ensure team understands budget constraints and practices cost-effectiveness.
-
+  Keep stakeholders informed about budget status.
+  
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 
 **Agile Methodology**:
